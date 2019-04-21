@@ -15,6 +15,7 @@
 		60128CD1226D0ACE00F6E327 /* CategoryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60128CD0226D0ACE00F6E327 /* CategoryCell.swift */; };
 		60128CD3226D0D6A00F6E327 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60128CD2226D0D6A00F6E327 /* Category.swift */; };
 		60128CD6226D0F9800F6E327 /* DataServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60128CD5226D0F9800F6E327 /* DataServices.swift */; };
+		60EF4D0F226D30BD00A8FD71 /* ProductCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60EF4D0E226D30BD00A8FD71 /* ProductCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		60128CD0226D0ACE00F6E327 /* CategoryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryCell.swift; sourceTree = "<group>"; };
 		60128CD2226D0D6A00F6E327 /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
 		60128CD5226D0F9800F6E327 /* DataServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataServices.swift; sourceTree = "<group>"; };
+		60EF4D0E226D30BD00A8FD71 /* ProductCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 			isa = PBXGroup;
 			children = (
 				60128CD0226D0ACE00F6E327 /* CategoryCell.swift */,
+				60EF4D0E226D30BD00A8FD71 /* ProductCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 				60128CD6226D0F9800F6E327 /* DataServices.swift in Sources */,
 				60128CBE226CFE0200F6E327 /* CategoriesVC.swift in Sources */,
 				60128CD1226D0ACE00F6E327 /* CategoryCell.swift in Sources */,
+				60EF4D0F226D30BD00A8FD71 /* ProductCell.swift in Sources */,
 				60128CBC226CFE0200F6E327 /* AppDelegate.swift in Sources */,
 				60128CD3226D0D6A00F6E327 /* Category.swift in Sources */,
 			);
