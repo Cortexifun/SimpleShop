@@ -14,4 +14,7 @@ class ProductCell: UICollectionViewCell {
     @IBOutlet weak var productTitle: UILabel!
     @IBOutlet weak var productPrice: UILabel!
     
+    
+    // collectionview cell is different with Tableview cell 
+    
 }
